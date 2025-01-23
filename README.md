@@ -1,6 +1,7 @@
 # Dushimimana G. portfolio of projects
-# Test
-First thing is to see how this works
+# Projects
+This is a repository that contains data analysis projects
+
 
 
 
