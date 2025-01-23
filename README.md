@@ -1,5 +1,5 @@
 # Dushimimana G. portfolio of projects
-# Projects
+# Portfolio of Projects
 This is a repository that contains data analysis projects
 
 
